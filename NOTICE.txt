@@ -1,0 +1,2 @@
+This library redistributes the legacy Sun JDK 1.1.8 javax.comm implementation.
+
